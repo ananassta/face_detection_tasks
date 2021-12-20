@@ -8,3 +8,6 @@ Exerxise 1
 Exercise 2
 - examples of work: https://drive.google.com/file/d/1_12A7tiVENeBYIFp8k46lDkgL7e-uqJI/view?usp=sharing
                     https://drive.google.com/file/d/1yM1TZF9zTMbsOcvBEHPcsyFzi2XI_plh/view?usp=sharing
+
+Exercise 3
+- example of work: https://drive.google.com/file/d/1Ix0XBkPq9kmkpRJ9IkoKFy1Y9DE0spmG/view?usp=sharing
